@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyTherapy</string>
+    <string name="title_activity_home">Asosiy sahifa</string>
+    <string name="title_home">Asosiy</string>
+    <string name="title_dashboard">Nazorat</string>
+    <string name="title_settings">Sozlamalar</string>
+    <string name="title_profile">Profile</string>
+    <string name="medicine_name">Dori nomi</string>
+    <string name="dosage_summary">Miqdori</string>
+    <string name="add_medicine">Dori qo\'shish</string>
+    <string name="string_time">Vaqti</string>
+    <string name="medicine_name_hint">Dori nomini kiriting</string>
+    <string name="string_from">Qachondan</string>
+    <string name="string_schedule">Kunlik istemol soni</string>
+    <string name="pick_a_time">Vaqtni tanlang</string>
+    <string name="once_a_day">Kuniga bir marta</string>
+    <string name="twice_a_day">Kuniga ikki marta</string>
+    <string name="thrice_a_day">Kuniga uch marta</string>
+    <string name="_4_times_a_day">Kuniga to\'rt marta</string>
+    <string name="_5_times_per_day">Kuniga besh marta</string>
+    <string name="number_of_total_doses">Jami dori miqdori</string>
+    <string name="sample_date">Thu, September 13 2018</string>
+    <string name="privacy_policy">Maxfiylik siyosati</string>
+    <string name="time_to_take">Vaqtni belgilash&#160;</string>
+    <string name="snooze">Kechiktirish</string>
+    <string name="dismiss">Yopish</string>
+    <string name="take">Bajarildi</string>
+    <string name="notification">Bildirishnoma</string>
+    <string name="alarm">Qalqib chiquvchi oyna</string>
+    <string name="both">Ikalasi ham</string>
+    <string name="alert_type">Bildirishnoma ko\'rinishi</string>
+    <string name="enter_mec_name">Dori nomi kiriting</string>
+    <string name="close_pressed">Jarayon yopildi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
